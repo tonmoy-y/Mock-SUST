@@ -25,7 +25,7 @@ A simple, robust, production-ready web service built with FastAPI to automatical
 ```bash
 # Clone the repository
 git clone <repository_url>
-cd <repository>
+cd Mock-SUST
 
 # Create virtual environment
 python3 -m venv venv
